@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.venv/
+ecotwin.db
+models/saved/*.joblib
+models/saved/*.pt
+models/saved/*.pkl
+dashboard/node_modules/
+dashboard/dist/
+data/raw/weatherbench/
+data/raw/**/*.xlsx
